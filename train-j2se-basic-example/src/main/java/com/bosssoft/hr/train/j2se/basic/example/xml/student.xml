@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <student id="2">
+                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <name>jack</name>
+                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <age>22</age>
+                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </student>
+                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <student id="1">
+                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <name name="Mike">betty</name>
+                                                                                                        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <age age="15">16</age>
+                                                                                                    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </student>
+                                                
+    
+
+
+    
+
+
+    
+    
+    
+    
+    
+    
+    
+    <student id="3">
+                                                                
+        
+        
+        
+        
+        
+        
+        <name name="kkk"/>
+                                                                
+        
+        
+        
+        
+        
+        
+        <age age="18"/>
+                                                            
+    
+    
+    
+    
+    
+    
+    </student>
+                            
+    
+    
+    
+    
+    
+    
+    <student id="1">
+                                                        
+        
+        
+        
+        
+        
+        <name name="Mike"/>
+                                                        
+        
+        
+        
+        
+        
+        <age age="15"/>
+                                                    
+    
+    
+    
+    
+    
+    </student>
+                        
+    
+    
+    
+    
+    
+    <student id="1">
+                                                
+        
+        
+        
+        
+        <name name="Mike"/>
+                                                
+        
+        
+        
+        
+        <age age="15"/>
+                                            
+    
+    
+    
+    
+    </student>
+                    
+    
+    
+    
+    
+    <student id="1">
+                                        
+        
+        
+        
+        <name name="Mike"/>
+                                        
+        
+        
+        
+        <age age="15"/>
+                                    
+    
+    
+    
+    </student>
+                
+    
+    
+    
+    <student id="1">
+                                
+        
+        
+        <name name="Mike"/>
+                                
+        
+        
+        <age age="15"/>
+                            
+    
+    
+    </student>
+            
+    
+    
+    <student id="3">
+                        
+        
+        <name name="kkk"/>
+                        
+        
+        <age age="18"/>
+                    
+    
+    </student>
+        
+    
+    <student id="1">
+                
+        <name name="Mike"/>
+                
+        <age age="15"/>
+            
+    </student>
+    
+    <student id="1">
+        <name name="ming"/>
+        <age age="18"/>
+    </student>
+</students>
